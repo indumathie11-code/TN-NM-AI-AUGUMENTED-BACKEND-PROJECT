@@ -6,7 +6,7 @@ BlogNest is a simple blogging platform developed using Node.js. It allows users 
 
 ## 🎥 Demo Video
 
-[Click here to watch the Demo Video](https://drive.google.com/file/d/1-oOBHpXbZWG4RfplJmRa1K5y4m72F33f/view?usp=drivesdk)
+[Click here to watch the Demo Video](https://drive.google.com/file/d/1Pf0--MMtPbeaGyMbtxmMtpHx4EzZLZK6/view?usp=drivesdk)
 
 ## 💻 Source Code
 
